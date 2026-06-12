@@ -25,6 +25,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d9eac38c-d1d1-42b9-911c-9056532018db" />
 
 
 
@@ -37,6 +38,8 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **Calculation:**
+<img width="720" height="516" alt="image" src="https://github.com/user-attachments/assets/8e1d1436-6eca-4d0e-8782-486f9fe31b61" />
+
 
 
 
